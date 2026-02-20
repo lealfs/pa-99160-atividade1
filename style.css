@@ -7,7 +7,7 @@
 
 body {
     background-color: #f8f8f8;
-    background-image: url("assets/tela\ de\ fundo.jpg");
+    background-image: url("assets/tela\ de\ fundo.jpg" );
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
