@@ -42,7 +42,9 @@ button {
     padding: 10px;
     border-radius: 10px;
     text-decoration: none;
-    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    color: rgb(0, 0, 0)
 }
 a{
     display: block;
