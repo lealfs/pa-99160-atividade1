@@ -7,7 +7,7 @@
 
 body {
     background-color: #f8f8f8;
-    background-image: url("assets/tela\ de\ fundo.jpg" );
+    background-image: url("assets/zz.png" );
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -16,7 +16,7 @@ body {
 
 h1 {
     text-align: center;
-    color: rgb(117, 16, 16);
+    color: rgb(0, 0, 0);
 }
 
 img {
@@ -35,4 +35,18 @@ p {
     margin-bottom: 50px;
 }
 
-
+button {
+    display: block;
+    height: auto;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    margin: 0px auto;
+}
